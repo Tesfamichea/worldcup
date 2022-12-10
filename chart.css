@@ -1,0 +1,37 @@
+ #head{
+    border: 1px solid lightblue;
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px;
+ }
+ .row
+ {
+  
+    text-align: center;
+ }
+ tr td
+ {
+    border-top: 1px solid red ;
+ }
+ #container,#container1,#container2,#container3{
+    height: 200px;
+    width: 200px;
+}
+.containerT
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+button
+{
+    margin: 10px;
+}
+#containerHi
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
